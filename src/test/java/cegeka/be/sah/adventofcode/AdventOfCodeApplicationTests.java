@@ -3,6 +3,11 @@ package cegeka.be.sah.adventofcode;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
+import java.io.IOException;
+import java.util.List;
+
+import static org.assertj.core.api.Assertions.assertThat;
+
 @SpringBootTest
 class AdventOfCodeApplicationTests {
 
@@ -11,8 +16,14 @@ class AdventOfCodeApplicationTests {
     }
 
     @Test
-    void jsonFileReaderTest() {
-        // TODO: implement test
+    void jsonFileReaderTest() throws IOException {
+        FileReader fileReader = new FileReader();
+        ToyList actualToyList = fileReader.readToyList();
+
+        Toy expectedToy = new Toy("Train", "Toy", 5);
+        ToyList expectedToyList = new ToyList(List.of(expectedToy));
+
+        assertThat(actualToyList.toys()).containsExactlyInAnyOrderElementsOf(expectedToyList.toys());
     }
 
     @Test
