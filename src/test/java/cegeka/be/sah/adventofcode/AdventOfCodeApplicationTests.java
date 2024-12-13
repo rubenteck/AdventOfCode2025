@@ -11,8 +11,22 @@ class AdventOfCodeApplicationTests {
     }
 
     @Test
-    void returnRubenSucks() {
-        System.out.println("Ruben sucks");
+    void jsonFileReaderTest() {
+        // TODO: implement test
     }
+
+    @Test
+    void calculateNumberOfToysByTypeTest() {
+
+        String output = "{Clothing:3, Candy:30, Toys: 13}";
+
+    }
+
+    @Test
+    void getMostPopularToyTest() {
+        String output = "Candy";
+    }
+
+
 
 }

@@ -1,0 +1,5 @@
+[ {"name": "Train", "type": "Toy", "quantity": 5},
+  {"name": "Doll", "type": "Toy", "quantity": 8},
+  {"name": "Chocolate Bar", "type": "Candy", "quantity": 15},
+  {"name": "Candy Cane", "type": "Candy", "quantity": 15},
+  {"name": "Sweater", "type": "Clothing", "quantity": 3} ]
