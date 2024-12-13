@@ -1,5 +1,8 @@
 package cegeka.be.sah.adventofcode;
 
+import lombok.Getter;
+
+@Getter
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 public record Toy(
