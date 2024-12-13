@@ -4,7 +4,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 
 public record Toy(
         @JsonProperty String name,
-        String type,
-        int amount
+        @JsonProperty String type,
+        @JsonProperty int amount
 ) {
 }
