@@ -1,0 +1,2502 @@
+[
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 4
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 15
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 13
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 15
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 11
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 5
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 13
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 9
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 12
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 13
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 20
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 5
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 12
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 4
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 9
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 12
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 16
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 20
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 5
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 9
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 3
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 13
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 18
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 11
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 9
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 14
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 18
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 4
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 11
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 6
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 9
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 1
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 14
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 10
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 10
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 8
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 7
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 7
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 12
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 2
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 2
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 10
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 10
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 16
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 19
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 17
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 7
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 8
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 14
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 16
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 13
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 5
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 3
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 7
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 13
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 7
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 11
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 7
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 10
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 14
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 19
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 19
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 7
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 14
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 3
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 19
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 11
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 7
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 9
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 13
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 17
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 1
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 9
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 2
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 8
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 8
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 10
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 7
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 5
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 18
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 18
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 3
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 14
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 11
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 13
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 11
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 20
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 15
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 6
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 6
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 11
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 11
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 10
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 13
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 5
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 16
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 19
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 2
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 15
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 18
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 18
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 20
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 20
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 13
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 9
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 9
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 12
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 16
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 7
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 7
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 18
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 17
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 13
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 1
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 17
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 7
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 4
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 4
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 5
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 9
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 12
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 5
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 1
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 10
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 8
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 16
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 7
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 14
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 9
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 14
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 15
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 10
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 9
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 20
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 4
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 17
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 10
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 16
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 2
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 18
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 7
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 9
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 1
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 2
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 5
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 2
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 4
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 7
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 13
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 7
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 10
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 6
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 12
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 14
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 17
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 13
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 7
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 14
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 14
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 16
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 14
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 13
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 17
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 12
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 5
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 19
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 2
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 18
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 20
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 15
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 20
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 1
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 16
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 2
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 9
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 2
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 11
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 19
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 1
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 2
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 7
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 13
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 9
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 14
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 18
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 2
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 20
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 19
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 11
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 4
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 10
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 15
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 19
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 15
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 18
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 17
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 10
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 16
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 20
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 5
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 17
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 4
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 15
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 3
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 20
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 13
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 10
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 20
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 15
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 20
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 9
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 10
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 3
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 16
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 12
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 13
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 19
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 13
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 11
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 6
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 7
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 16
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 18
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 5
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 6
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 20
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 10
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 2
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 6
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 14
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 5
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 2
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 16
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 15
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 7
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 16
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 13
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 10
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 7
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 19
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 4
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 5
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 14
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 17
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 9
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 16
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 4
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 3
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 9
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 12
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 4
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 18
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 2
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 20
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 13
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 1
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 6
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 17
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 20
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 13
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 8
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 17
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 8
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 11
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 3
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 12
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 1
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 3
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 14
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 13
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 13
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 2
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 14
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 5
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 19
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 16
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 18
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 14
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 11
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 1
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 13
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 3
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 7
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 8
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 13
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 16
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 19
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 4
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 20
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 2
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 1
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 4
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 9
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 20
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 17
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 17
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 10
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 5
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 2
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 1
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 10
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 16
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 18
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 9
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 19
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 15
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 11
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 2
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 20
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 3
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 11
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 9
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 17
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 17
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 20
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 20
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 14
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 19
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 18
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 19
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 4
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 10
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 3
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 17
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 14
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 12
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 10
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 7
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 13
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 13
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 9
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 15
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 5
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 2
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 8
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 9
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 17
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 15
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 13
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 11
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 20
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 15
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 4
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 19
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 14
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 14
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 15
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 3
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 20
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 6
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 18
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 1
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 17
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 1
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 12
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 8
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 1
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 20
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 8
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 1
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 14
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 13
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 13
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 3
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 7
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 16
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 5
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 15
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 2
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 6
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 19
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 6
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 19
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 6
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 9
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 8
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 1
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 8
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 6
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 5
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 14
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 19
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 3
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 14
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 12
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 8
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 11
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 5
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 16
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 15
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 7
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 13
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 3
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 4
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 10
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 11
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 18
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 15
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 18
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 7
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 18
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 19
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 15
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 13
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 8
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 2
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 5
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 6
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 11
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 19
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 2
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 6
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 19
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 12
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 12
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 15
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 20
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 6
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 9
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 11
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 12
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 5
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 15
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 1
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 18
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 17
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 16
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 18
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 19
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 18
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 15
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 2
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 2
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 20
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 3
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 11
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 14
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 18
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 4
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 2
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 10
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 17
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 13
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 17
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 2
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 12
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 15
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 19
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 2
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 9
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 19
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 15
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 1
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 8
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 2
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 6
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 19
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 14
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 20
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 16
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 13
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 13
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 10
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 6
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 4
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 2
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 2
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 16
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 5
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 19
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 3
+  },
+  {
+    "name": "Action Figure",
+    "type": "Toy",
+    "quantity": 20
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 13
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 16
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 15
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 5
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 14
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 7
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 15
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 8
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 7
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 8
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 14
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 11
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 12
+  },
+  {
+    "name": "Sweater",
+    "type": "Clothing",
+    "quantity": 4
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 7
+  },
+  {
+    "name": "Scarf",
+    "type": "Clothing",
+    "quantity": 17
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 8
+  },
+  {
+    "name": "Building Blocks",
+    "type": "Toy",
+    "quantity": 17
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 6
+  },
+  {
+    "name": "Chocolate Bar",
+    "type": "Candy",
+    "quantity": 19
+  },
+  {
+    "name": "Doll",
+    "type": "Toy",
+    "quantity": 2
+  },
+  {
+    "name": "Gingerbread Cookie",
+    "type": "Candy",
+    "quantity": 18
+  },
+  {
+    "name": "Socks",
+    "type": "Clothing",
+    "quantity": 17
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 18
+  },
+  {
+    "name": "Candy Cane",
+    "type": "Candy",
+    "quantity": 18
+  },
+  {
+    "name": "Lollipop",
+    "type": "Candy",
+    "quantity": 12
+  },
+  {
+    "name": "Hat",
+    "type": "Clothing",
+    "quantity": 20
+  },
+  {
+    "name": "Train",
+    "type": "Toy",
+    "quantity": 18
+  }
+]
