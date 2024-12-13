@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AdventOfCodeApplication {
 
     public static void main(String[] args) {
+        System.out.println("we win");
         SpringApplication.run(AdventOfCodeApplication.class, args);
     }
 
