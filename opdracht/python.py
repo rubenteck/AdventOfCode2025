@@ -13,7 +13,10 @@ def sort_by_type(data):
         types[item['type']] += item['quantity']
     return types
 
-def get_
+def get_most_popular_item(data):
+    popular_items = []
+    max_quantity = 0
+    for item in data:
 
 print(sort_by_type(data))
 
