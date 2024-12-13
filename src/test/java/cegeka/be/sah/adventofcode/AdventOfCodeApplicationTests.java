@@ -10,4 +10,9 @@ class AdventOfCodeApplicationTests {
     void contextLoads() {
     }
 
+    @Test
+    void returnRubenSucks() {
+        System.out.println("Ruben sucks");
+    }
+
 }
